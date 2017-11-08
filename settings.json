@@ -13,5 +13,8 @@
     "vsicons.dontShowNewVersionMessage": true,
     "terminal.integrated.fontFamily": "Inconsolata for Powerline",
     "terminal.integrated.fontSize": 15,
-    "window.zoomLevel": 0
+    "window.zoomLevel": 0,
+    "emmet.includeLanguages": {
+        "razor": "html"
+    }
 }
