@@ -10,3 +10,5 @@ My preferences for overriding default VS Code settings. Storing this in github s
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Versions Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 * [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
+* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* [VS Code.csproj](https://marketplace.visualstudio.com/items?itemName=lucasazzola.vscode-csproj)
